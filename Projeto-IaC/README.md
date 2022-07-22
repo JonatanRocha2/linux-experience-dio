@@ -10,16 +10,16 @@ O script deve realizar as seguintes tarefas:
 
 ## Diretorios:
 
-/publico
-/adm
-/ven
-/sec
+* /publico
+* /adm
+* /ven
+* /sec
 
 ## Grupos:
 
-GRP_ADM
-GRP_VEN
-GRP_SEC
+* GRP_ADM
+* GRP_VEN
+* GRP_SEC
 
 ## Usuarios:
 
