@@ -23,6 +23,6 @@ GRP_SEC
 
 ## Usuarios:
 
-Carlos, Amanda e Maria - **GRUPO ADM**
-Joao, Roberto e Debora - **GRUPO VEN**
-Josefina, Rogerio e Ediane - **GRUPO SEC**
+* Carlos, Amanda e Maria - **GRUPO ADM**
+* Joao, Roberto e Debora - **GRUPO VEN**
+* Josefina, Rogerio e Ediane - **GRUPO SEC**
