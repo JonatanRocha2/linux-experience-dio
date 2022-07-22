@@ -21,7 +21,7 @@ GRP_ADM
 GRP_VEN
 GRP_SEC
 
-# Usuarios:
+## Usuarios:
 
 Carlos, Amanda e Maria - **GRUPO ADM**
 Joao, Roberto e Debora - **GRUPO VEN**
